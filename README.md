@@ -46,7 +46,7 @@ All the external dependencies can be installed by using ```pip install -r requir
 
 ## Results
 <p align="left">
-<img width=50% src="images/merged_model.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=50% src="images/results.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
 
 ## Demo
